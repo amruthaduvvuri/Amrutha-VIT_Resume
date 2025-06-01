@@ -11,7 +11,7 @@
 
 Welcome to my digital hub! I’m **L. Amrutha Duvvuri**, a Bioengineering student @ VIT Bhopal, navigating the intersections of **tech, data, and design thinking**.
 
-📄 **[Download My Resume (PDF)](./L_Amrutha_Duvvuri_VIT%20(2).pdf)**  
+📄 **[Download My Resume (PDF)](.[/L_Amrutha_Duvvuri_VIT%20(2).pdf](https://github.com/amruthaduvvuri/L_Amrutha_Duvvuri_Data-Analyst_VIT_Resume/blob/main/L_Amrutha%20Duvvuri_Data%20Analyst_VIT.pdf))**  
 🔍 **Portfolio Deep Dive:** [datascienceportfol.io/Amruthaduvvuri1](http://datascienceportfol.io/Amruthaduvvuri1)
 
 ---
