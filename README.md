@@ -1,4 +1,4 @@
-# 💼 L. Amrutha Duvvuri — Resume & Portfolio
+# 💼 Lakshmi Amrutha Duvvuri — Resume & Portfolio
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Amrutha_Duvvuri-blue?logo=linkedin)](https://www.linkedin.com/in/amrutha-duvvuri)
 [![GitHub](https://img.shields.io/badge/GitHub-amruthaduvvuri-181717?logo=github)](https://github.com/amruthaduvvuri)
@@ -9,7 +9,7 @@
 
 > 🧠 "Engineer by degree, explorer by mindset, and storyteller through data."  
 
-Welcome to my digital hub! I’m **L. Amrutha Duvvuri**, a Bioengineering student @ VIT Bhopal, navigating the intersections of **tech, data, and design thinking**.
+Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, a Bioengineering student @ VIT Bhopal, navigating the intersections of **tech, data, and design thinking**.
 
  
 🔍 **Portfolio Deep Dive:** [datascienceportfol.io/Amruthaduvvuri1](http://datascienceportfol.io/Amruthaduvvuri1)
@@ -59,14 +59,13 @@ Welcome to my digital hub! I’m **L. Amrutha Duvvuri**, a Bioengineering studen
 
 - 🧬 Bioengineer with a tech twist  
 - 📈 Data = stories waiting to be told  
-- 🎨 I design dashboards like I design poetry: clean, insightful, and a bit dramatic  
-- 🧃 I believe ideas are juice boxes — best when shared with a straw of collaboration 🍹
+- 🎨 I design dashboards like I design poetry: clean, insightful, and a bit dramatic 
 
 ---
 
 ## 🤝 Let’s Connect
 
-I love collaborating on passion projects, research, or just having a geeky chat about machine learning and mangoes 🥭. Drop a line — I don’t byte 🖖
+I love collaborating on passion projects, research, or just having a geeky chat about machine learning . Drop a line — I don’t byte 🖖
 
 📬 **[amrutha.duvvuri1@gmail.com](mailto:amrutha.duvvuri1@gmail.com)**  
 🔗 [LinkedIn](https://www.linkedin.com/in/amrutha-duvvuri)  
