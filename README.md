@@ -18,7 +18,7 @@ Welcome to my digital hub! I’m **Lakshmi Amrutha Duvvuri**, a Bioengineering s
 
 ## 🚀 At a Glance
 
-- 🎓 B.Tech Bioengineering (CGPA: 8.58)  
+- 🎓 B.Tech Bioengineering (CGPA: 8.64)  
 - 🧰 Fluent in Python, SQL, Java, Web Dev  
 - 📊 10+ Real-world projects | 3 Hackathons | 2 Clubs | 1 Curious Brain  
 - 🔬 Passionate about **health-tech**, **AI for good**, and **designing intuitive solutions**
